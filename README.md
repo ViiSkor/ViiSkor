@@ -16,8 +16,15 @@
                 「 Focused on creating impactful machine learning services that improve lives</b> 」
                 <br>
                 <br>
+                <a href="https://www.linkedin.com/in/vika-skorik/"><img alt="LinkeDin" width="22px" src="https://img.icons8.com/?size=512&id=446&format=png" /></a>
+                <a href="https://github.com/ViiSkor/"><img alt="Github" width="22px" src="https://img.icons8.com/?size=512&id=62856&format=png" /></a>
+                <a href="mailto:vikaskorik@gmail.com"><img alt="Gmail" width="22px" src="https://img.icons8.com/?size=512&id=Y2GfpkgYNp42&format=png" /></a>
         </samp>
+        
+        
 </p>
+<br />
+
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
