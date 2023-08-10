@@ -11,9 +11,9 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a machine learning engineer from originally from <b>Kharkiv</b> 」
+                「 I'm a machine learning engineer originally from <b>Kharkiv</b> 」
                 <br>
-                「 Focused on creating impactful web applications that improve lives</b> 」
+                「 Focused on creating impactful machine learning services that improve lives</b> 」
                 <br>
                 <br>
         </samp>
